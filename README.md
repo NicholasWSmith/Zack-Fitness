@@ -13,9 +13,9 @@ A step by step guide on how to get the Synctier modules running locally.
     3. [Google](#google)
 4. [Docker](#docker)
 
-<div id="setup"/>
 
-## Setting up the API locally
+
+## Setting up the API locally <a name="setup"></a>
 
 ### How do I set up Synctier?  
 
